@@ -6,13 +6,11 @@ A mod for the game [Brotato](https://store.steampowered.com/app/1942280/Brotato/
 
 Toggle Hoard Mode on the difficulty selection page. When enabled:
 
-- **5x enemy count** — Five times the enemies per wave
-- **-40% enemy HP** — Individually weaker enemies
-- **-20% enemy damage** — Each hit deals less
-- **-40% materials drops** — Offset for the higher kill count
-- **-40% XP gain** — Reduced progression reward
-
-At Danger 5, enemies recover to nearly full stats while still spawning at 5x count.
+- **Up to 10x enemy count** — Quick-select buttons for 2x, 3x, 5x, or 10x
+- **-40% enemy HP**
+- **-20% enemy damage**
+- **-40% materials drops**
+- **-40% XP gain**
 
 All values are configurable via ModLoader config.
 

@@ -2,7 +2,7 @@
 	"name": "HoardMode",
 	"namespace": "PapiLeem",
 	"version_number": "1.1.0",
-	"description": "Adds Hoard Mode - a toggle on the difficulty selection page. Configurable enemy multipliers, kill counter HUD, and challenges.",
+	"description": "Adds Hoard Mode - a toggle on the difficulty selection page with 2x, 3x, 5x, or 10x enemy multipliers, kill counter HUD, and challenges.",
 	"website_url": "",
 	"dependencies": [],
 	"extra": {
