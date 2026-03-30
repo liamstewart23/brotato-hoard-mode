@@ -33,3 +33,8 @@ All values are configurable via ModLoader config.
 ## Languages
 
 Translated in 13 languages: English, French, Spanish, German, Russian, Portuguese, Polish, Italian, Turkish, Chinese (Simplified & Traditional), Japanese, and Korean.
+
+## Installation
+Just hit Subscribe, and the mod will be added to your game automatically. No setup required.
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=3695190300
